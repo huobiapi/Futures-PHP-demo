@@ -9,7 +9,7 @@ php-7.2.12-nts-Win32-VC15-x64
 ## lib.php 定义了一些示例方法, 其他方法参考地址: https://github.com/huobiapi/API_Docs/wiki/REST_api_reference
 
 ```
-// 添加新方法需要定义的参数
+// 添加新方法需要定义的参数，API调试过程中有问题或者有疑问可反馈微信号shaoxiaofeng1118
 
 // REST接口地址
 $this->api_method = "/v1/...";
